@@ -72,7 +72,7 @@ Raspberry Pi specifications:
 
 In the `eagle_project` directory can be found the schematic, the layout design of the board and the Bill of Material. Those files can be used to send the board to manufacture and build the robot. You should obtain something like:
 
-<img src="images/pcb.jpg">
+<img src="images/PCB.jpg">
 
 <!-- GETTING STARTED -->
 
